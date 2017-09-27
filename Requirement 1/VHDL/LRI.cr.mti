@@ -1,0 +1,33 @@
+C:/Users/SamirHamed/Documents/ModelSim/partd.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/SamirHamed/Documents/ModelSim/partd.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PartD
+-- Compiling architecture PartDImplementation of PartD
+
+} {} {}} C:/Users/SamirHamed/Documents/ModelSim/partb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/SamirHamed/Documents/ModelSim/partb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PartB
+-- Compiling architecture PartBImplementation of PartB
+
+} {} {}} C:/Users/SamirHamed/Documents/ModelSim/ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/SamirHamed/Documents/ModelSim/ALU.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture ALUImplementation of ALU
+
+} {} {}} C:/Users/SamirHamed/Documents/ModelSim/partc.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/SamirHamed/Documents/ModelSim/partc.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PartC
+-- Compiling architecture PartCImplementation of PartC
+
+} {} {}}
